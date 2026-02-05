@@ -25,9 +25,17 @@ Aspiring McDonald's worker, part-time chess player, full-time Sudoku time-waster
 
 ---
 
-# 🎨 Tech Stack (because colors are fun)
+# 🎨 Tech Stack (I vibe code most of these except for Py and C)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,firebase,androidstudio,kotlin,ts,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=python&theme=dark&perline=10" style="filter: drop-shadow(0 0 6px #ff00ff);" />
+  <img src="https://skillicons.dev/icons?i=c&theme=dark&perline=10" style="filter: drop-shadow(0 0 6px #00eaff);" />
+  <img src="https://skillicons.dev/icons?i=java&theme=dark&perline=10" style="filter: drop-shadow(0 0 6px #ff0099);" />
+  <img src="https://skillicons.dev/icons?i=dotnet&theme=dark&perline=10" style="filter: drop-shadow(0 0 6px #8f00ff);" />
+  <img src="https://skillicons.dev/icons?i=react&theme=dark&perline=10" style="filter: drop-shadow(0 0 6px #00eaff);" />
+  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark&perline=10" style="filter: drop-shadow(0 0 6px #ffffff);" />
+  <img src="https://skillicons.dev/icons?i=firebase&theme=dark&perline=10" style="filter: drop-shadow(0 0 6px #ffdd00);" />
+  <img src="https://skillicons.dev/icons?i=postgres&theme=dark&perline=10" style="filter: drop-shadow(0 0 6px #00a2ff);" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark&perline=10" style="filter: drop-shadow(0 0 6px #ff5500);" />
 </p>
 
 ---
