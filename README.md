@@ -1,84 +1,84 @@
-<!-- GIF DO MICHAEL CORLEONE -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aG9yemwxbmlzamZ4bTdrM2oyZzdrYmplMjZ6eTE5a21sMDl5OWV0eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0Iy3RS7F2jRheg48/giphy.gif" width="180" />
-</p>
+<!-- FILE HEADER: PASSPORT PHOTO -->
+<div align="center">
+    <img align="center"
+      src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aG9yemwxbmlzamZ4bTdrM2oyZzdrYmplMjZ6eTE5a21sMDl5OWV0eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0Iy3RS7F2jRheg48/giphy.gif"
+      width="200"
+      style="object-fit: cover;"
+    />
+</div>
 
-<!-- HEADER ANIMADO -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2800&color=00F7FF&center=true&vCenter=true&width=650&lines=Angry+Cloud;Follow+me+on+Pinterest;Python+%7C+C+%7C+Java;Kinda+Full-stack+Dev" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2600&color=00F7FF&center=true&vCenter=true&width=900&lines=CONFIDENTIAL+FILE:+ANGRY+CLOUD;Full-stack+Developer;Python+%7C+C+%7C+Java" />
 </h1>
 
-<!-- BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Pinterest-Placeholder-ff66c4?style=for-the-badge" title="No link yet — placeholder" />
-  <img src="https://img.shields.io/badge/Spotify-Placeholder-1DB954?style=for-the-badge" title="Also a placeholder" />
-  <img src="https://img.shields.io/badge/Going%20Outside-😴-20c997?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Asking%20Claude-🤖-6f42c1?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=AngreeCloud&label=File+Accesses&color=1f6feb&style=flat" />
+  <img src="https://img.shields.io/github/last-commit/AngreeCloud/AngreeCloud?color=1f6feb&style=flat" />
 </p>
 
----
+────────────────────────────────────────
 
-# 🌌 About Me
-IT student from Portugal, doing what I can.  
-Trying to learn and then trying to build ---- and then trying to fix it.
+# 01 — Subject Overview
+IT student from Portugal.  
+Focused on learning, building, and refining.  
+The vibe-coded NextJS app speaks for itself.
 
----
+────────────────────────────────────────
 
-# ⚡ Public Projects
+# 02 — Public Records
 
-### **InternLink** — *(AngreeCloud/InternLink)*  
-A school internship management platform built with **NextJS** and **Firebase**.
+### InternLink — *(AngreeCloud/InternLink)*  
+Internship management platform built with NextJS and Firebase.
 
-### **ClickCounter** — *(AngreeCloud/ClickCounter)*  
-A simple sequential queue/ticket system with full admin configuration and data export.  
-Hosted on Replit, backend in **Flask**.
+### ClickCounter — *(AngreeCloud/ClickCounter)*  
+Sequential queue/ticket system with admin configuration and data export.  
+Hosted on Replit, backend in Flask.
 
-### **Image-Voting-System** — *(AngreeCloud/Image-Voting-System)*  
-A small Laravel web app for uploading and voting on images, with admin stats, exports, and Bootstrap UI.  
-Hosted on Render, database in **MySQL**.
+### Image-Voting-System — *(AngreeCloud/Image-Voting-System)*  
+Laravel web app for image uploads and voting, with admin statistics and exports.  
+Hosted on Render, database in MySQL.
 
----
+────────────────────────────────────────
 
-# 🔒 Private Projects (brief overview)
+# 03 — Restricted Files (Overview)
 
-### **File Manager**  
-Enterprise file manager built in **Windows Forms (.NET C#)**.  
-Shows who has files open on a shared network drive, allows remote session closing (permissions-based), logs, and more.  
-Database: **MySQL**.
+### File Manager  
+Enterprise file manager built in Windows Forms (.NET C#).  
+Tracks open files on shared drives, supports remote session closing, includes logging.  
+Database: MySQL.
 
-### **LocalJavaLeetCode**  
-A local LeetCode-style environment built in **Java + JavaFX**.  
-Supports uploading problem statements, uploading intended solutions, integrated terminal, output comparison, and offline operation using temporary files.
+### LocalJavaLeetCode  
+Local LeetCode-style environment built in Java + JavaFX.  
+Supports problem uploads, solution uploads, integrated terminal, output comparison, fully offline.
 
-### **AndroidObjectDetector**  
-Android app built in **Kotlin**, using **TensorFlow Lite** to detect predefined objects in real time via camera feed, drawing bounding boxes on a canvas.
+### AndroidObjectDetector  
+Android app in Kotlin using TensorFlow Lite for real-time object detection.
 
-### **Barbearia**  
-A modern barbershop app built with **NextJS**, **Tailwind**, **Neon DB**, and deployed on **Vercel**.  
-Includes bookings, services, contacts, and a barber admin panel.
+### Barbearia  
+Modern barbershop app built with NextJS, Tailwind, Neon DB, deployed on Vercel.
 
-### **Jfeon&%%27 🤫**  
-A secret project to look important.
+### Jfeon&%%27  
+…and more.
 
----
+────────────────────────────────────────
 
-# 🎨 Tech Stack
+# 04 — Technical Profile
 
-## 🧠 Higher Proficiency
+## Higher Proficiency
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python&theme=dark" />
   <img src="https://skillicons.dev/icons?i=java&theme=dark" />
   <img src="https://skillicons.dev/icons?i=c&theme=dark" />
 </p>
 
-## 🗄️ Databases
+## Databases
 <p align="left">
   <img src="https://skillicons.dev/icons?i=firebase&theme=dark" />
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
   <img src="https://skillicons.dev/icons?i=postgres&theme=dark" />
 </p>
 
-## 🧩 Frameworks & Tools
+## Frameworks & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=flask&theme=dark" />
   <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" />
@@ -86,9 +86,17 @@ A secret project to look important.
   <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" />
 </p>
 
----
+────────────────────────────────────────
 
-# 📊 Stats
+# 05 — Operating Systems
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=apple&theme=dark" />
+</p>
+
+────────────────────────────────────────
+
+# 06 — Activity Log
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=AngreeCloud&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=AngreeCloud&theme=tokyonight" />
@@ -98,14 +106,14 @@ A secret project to look important.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AngreeCloud&theme=react-dark&hide_border=true&area=true" />
 </p>
 
----
+────────────────────────────────────────
 
-# 🧭 Roadmap (probably)
-- Finish off some personal projects  
-- Practice algorithms and basic data structures  
-- Figure out if I'm cut for this  
+# 07 — Roadmap
+- Finish personal projects  
+- Practice algorithms and data structures  
+- Determine the next step  
 
----
+────────────────────────────────────────
 
-# 📫 Contact
+# 08 — Contact
 i'm off the grid
