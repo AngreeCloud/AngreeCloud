@@ -24,17 +24,16 @@ Focused on learning, building, and refining.
 The vibe-coded NextJS app speaks for itself.
 
 ────────────────────────────────────────
-
 # 02 — Public Records
 
-### InternLink — *(AngreeCloud/InternLink)*  
+### [InternLink](https://github.com/AngreeCloud/InternLink)
 Internship management platform built with NextJS and Firebase.
 
-### ClickCounter — *(AngreeCloud/ClickCounter)*  
+### [ClickCounter](https://github.com/AngreeCloud/ClickCounter)
 Sequential queue/ticket system with admin configuration and data export.  
 Hosted on Replit, backend in Flask.
 
-### Image-Voting-System — *(AngreeCloud/Image-Voting-System)*  
+### [Image-Voting-System](https://github.com/AngreeCloud/Image-Voting-System)
 Laravel web app for image uploads and voting, with admin statistics and exports.  
 Hosted on Render, database in MySQL.
 
@@ -49,7 +48,7 @@ Database: MySQL.
 
 ### LocalJavaLeetCode  
 Local LeetCode-style environment built in Java + JavaFX.  
-Supports problem uploads, solution uploads, integrated terminal, output comparison, fully offline.
+Supports problem uploads, solution uploads, integrated terminal, output comparison, fully offline, no database.
 
 ### AndroidObjectDetector  
 Android app in Kotlin using TensorFlow Lite for real-time object detection.
