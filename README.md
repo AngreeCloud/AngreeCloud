@@ -87,15 +87,7 @@ Modern barbershop app built with NextJS, Tailwind, Neon DB, deployed on Vercel.
 
 ────────────────────────────────────────
 
-# 05 — Operating Systems
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=apple&theme=dark" />
-</p>
-
-────────────────────────────────────────
-
-# 06 — Activity Log
+# 05 — Activity Log
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=AngreeCloud&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=AngreeCloud&theme=tokyonight" />
@@ -107,12 +99,12 @@ Modern barbershop app built with NextJS, Tailwind, Neon DB, deployed on Vercel.
 
 ────────────────────────────────────────
 
-# 07 — Roadmap
+# 06 — Roadmap
 - Finish personal projects  
 - Practice algorithms and data structures  
 - Determine the next step  
 
 ────────────────────────────────────────
 
-# 08 — Contact
+# 07 — Contact
 i'm off the grid
